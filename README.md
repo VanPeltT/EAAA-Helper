@@ -1,0 +1,1 @@
+"Astronomical Data Viewer: A Tkinter-based GUI to retrieve and display weather, solar, lunar, and astronomical event data from multiple APIs, including WeatherAPI and USNO. Features include real-time solar images, astronomical forecasts, and data saving options."
